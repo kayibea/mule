@@ -1,6 +1,6 @@
-# Mule
+# mule
 
-A small CLI clipboard for files and directories.
+A small cli clipboard for files and directories.
 
 ## Usage
 
@@ -9,7 +9,7 @@ mule add FILES...
 mule list
 mule copy
 mule move
-mule clear
+mule prune
 ```
 
 ## Shell aliases
